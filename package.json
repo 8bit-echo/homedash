@@ -1,0 +1,34 @@
+{
+  "name": "homedash",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "deploy": "yarn build && deploy.sh"
+  },
+  "dependencies": {
+    "@coreui/icons": "^2.1.0",
+    "@coreui/icons-vue": "^2.0.0",
+    "@pqina/flip": "^1.7.7",
+    "d3": "^7.6.1",
+    "date-fns": "^2.29.2",
+    "simple-keyboard": "^3.4.152",
+    "vite-svg-loader": "^3.6.0",
+    "vue": "^3.2.37",
+    "vue-renderless-calendar": "^2.4.0",
+    "vue-router": "^4.0.13",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-legacy": "^2.0.1",
+    "@vitejs/plugin-vue": "^3.0.3",
+    "sass": "^1.54.7",
+    "terser": "^5.15.0",
+    "typescript": "^4.6.4",
+    "vite": "^3.0.7",
+    "vue-tsc": "^0.39.5"
+  }
+}

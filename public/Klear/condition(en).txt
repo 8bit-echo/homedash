@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Tornado</string>
+	</dict>
+	<key>1.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Tropical Storm</string>
+	</dict>
+	<key>10.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Freezing Rain</string>
+	</dict>
+	<key>11.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Showers</string>
+	</dict>
+	<key>12.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Rain</string>
+	</dict>
+	<key>13.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Flurries</string>
+	</dict>
+	<key>14.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Snow Showers</string>
+	</dict>
+	<key>15.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Blowing Snow</string>
+	</dict>
+	<key>16.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Snow</string>
+	</dict>
+	<key>17.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Hail</string>
+	</dict>
+	<key>18.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Sleet</string>
+	</dict>
+	<key>19.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Dust</string>
+	</dict>
+	<key>2.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Hurricane</string>
+	</dict>
+	<key>20.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Fog</string>
+	</dict>
+	<key>21.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Haze</string>
+	</dict>
+	<key>22.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Smoke</string>
+	</dict>
+	<key>23.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Breezy</string>
+	</dict>
+	<key>24.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Windy</string>
+	</dict>
+	<key>25.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Frigid</string>
+	</dict>
+	<key>26.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Cloudy</string>
+	</dict>
+	<key>27.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mostly Cloudy</string>
+	</dict>
+	<key>28.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mostly Cloudy</string>
+	</dict>
+	<key>29.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Partly Cloudy</string>
+	</dict>
+	<key>3.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Severe Thunderstorm</string>
+	</dict>
+	<key>30.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Partly Cloudy</string>
+	</dict>
+	<key>31.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Clear</string>
+	</dict>
+	<key>32.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Sunny</string>
+	</dict>
+	<key>33.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mostly Clear</string>
+	</dict>
+	<key>34.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mostly Sunny</string>
+	</dict>
+	<key>35.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mixed Rainfall</string>
+	</dict>
+	<key>36.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Hot</string>
+	</dict>
+	<key>37.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Isolated Thunderstorms</string>
+	</dict>
+	<key>38.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Scattered Thunderstorms</string>
+	</dict>
+	<key>39.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Scattered Showers</string>
+	</dict>
+	<key>4.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Thunderstorm</string>
+	</dict>
+	<key>40.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Heavy Rain</string>
+	</dict>
+	<key>41.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Scattered Snow Showers</string>
+	</dict>
+	<key>42.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Heavy Snow</string>
+	</dict>
+	<key>43.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Blizzard</string>
+	</dict>
+	<key>44.png</key>
+	<dict>
+		<key>describe</key>
+		<string></string>
+	</dict>
+	<key>45.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Scattered Showers</string>
+	</dict>
+	<key>46.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Scattered Snow Showers</string>
+	</dict>
+	<key>47.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Isolated Thundershowers</string>
+	</dict>
+	<key>48.png</key>
+	<dict>
+		<key>describe</key>
+		<string></string>
+	</dict>
+	<key>49.png</key>
+	<dict>
+		<key>describe</key>
+		<string></string>
+	</dict>
+	<key>5.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mixed Rain and Snow</string>
+	</dict>
+	<key>6.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mixed Rain and Sleet</string>
+	</dict>
+	<key>7.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mixed Snow and Sleet</string>
+	</dict>
+	<key>8.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Freezing Drizzle</string>
+	</dict>
+	<key>9.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Drizzle</string>
+	</dict>
+</dict>
+</plist>

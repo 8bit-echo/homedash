@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Lốc xoáy</string>
+	</dict>
+	<key>1.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Bão nhiệt đới</string>
+	</dict>
+	<key>10.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mưa băng</string>
+	</dict>
+	<key>11.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mưa rào</string>
+	</dict>
+	<key>12.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mưa</string>
+	</dict>
+	<key>13.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Gió mạnh</string>
+	</dict>
+	<key>14.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mưa tuyết</string>
+	</dict>
+	<key>15.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Tuyết thổi mạnh</string>
+	</dict>
+	<key>16.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Tuyết</string>
+	</dict>
+	<key>17.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mưa đá</string>
+	</dict>
+	<key>18.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mưa tuyết</string>
+	</dict>
+	<key>19.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Nhiều bụi</string>
+	</dict>
+	<key>2.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Bão lốc</string>
+	</dict>
+	<key>20.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Sương mù</string>
+	</dict>
+	<key>21.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Sương mù nhẹ</string>
+	</dict>
+	<key>22.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Khói</string>
+	</dict>
+	<key>23.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Gió nhẹ</string>
+	</dict>
+	<key>24.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Có gió</string>
+	</dict>
+	<key>25.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Gió lạnh</string>
+	</dict>
+	<key>26.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Có mây</string>
+	</dict>
+	<key>27.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Trời nhiều mây</string>
+	</dict>
+	<key>28.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Trời nhiều mây</string>
+	</dict>
+	<key>29.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Có mây vài nơi</string>
+	</dict>
+	<key>3.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Giông bão mạnh</string>
+	</dict>
+	<key>30.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Có mây vài nơi</string>
+	</dict>
+	<key>31.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Quang mây</string>
+	</dict>
+	<key>32.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Có nắng</string>
+	</dict>
+	<key>33.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Trời quang mây</string>
+	</dict>
+	<key>34.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Trời nắng</string>
+	</dict>
+	<key>35.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mưa rào hỗn hợp</string>
+	</dict>
+	<key>36.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Nóng</string>
+	</dict>
+	<key>37.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Giông bão diện hẹp</string>
+	</dict>
+	<key>38.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Giông bão rải rác</string>
+	</dict>
+	<key>39.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mưa rào rải rác</string>
+	</dict>
+	<key>4.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Giông bão</string>
+	</dict>
+	<key>40.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mưa lớn</string>
+	</dict>
+	<key>41.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mưa tuyết rải rác</string>
+	</dict>
+	<key>42.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Tuyết rơi nhiều</string>
+	</dict>
+	<key>43.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Bão tuyết</string>
+	</dict>
+	<key>44.png</key>
+	<dict>
+		<key>describe</key>
+		<string></string>
+	</dict>
+	<key>45.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mưa rào rải rác</string>
+	</dict>
+	<key>46.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mưa tuyết rải rác</string>
+	</dict>
+	<key>47.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mưa giông vài nơi</string>
+	</dict>
+	<key>48.png</key>
+	<dict>
+		<key>describe</key>
+		<string></string>
+	</dict>
+	<key>49.png</key>
+	<dict>
+		<key>describe</key>
+		<string></string>
+	</dict>
+	<key>5.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mưa và tuyết hỗn hợp</string>
+	</dict>
+	<key>6.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mưa và mưa tuyết hỗn hợp</string>
+	</dict>
+	<key>7.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Tuyết và mưa tuyết hỗn hợp</string>
+	</dict>
+	<key>8.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mưa phùn lạnh</string>
+	</dict>
+	<key>9.png</key>
+	<dict>
+		<key>describe</key>
+		<string>Mưa phùn</string>
+	</dict>
+</dict>
+</plist>
