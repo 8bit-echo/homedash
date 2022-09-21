@@ -1,8 +1,8 @@
-import { Between, NumericRange } from '../types/number';
+import { ByteValue } from '../types/number';
 
 interface HSLValue {
-  sat?: NumericRange<Between<0>, 254>;
-  bri?: NumericRange<Between<0>, 254>;
+  sat?: ByteValue;
+  bri?: ByteValue;
   hue?: number; // 0..65535
 }
 
@@ -53,13 +53,13 @@ export default class Hue {
     return this.queryHue(`/lights/${id}/state`, {
       method: 'PUT',
       body: JSON.stringify({
-        on: true,
+        on: bri !== 0,
         hue,
         sat,
         bri,
       }),
     });
-  }
+  } 
 
   async getGroups() {
     return this.queryHue('/groups');

@@ -7,7 +7,7 @@
 
       <li v-for="page in webpages" :key="page">
         <RouterLink :to="`/iframe/${encodeURIComponent(page ?? 'null')}`">
-          {{ getIcon(page) }}
+          <Component :is="getIcon(page)" />
         </RouterLink>
       </li>
 
@@ -40,11 +40,11 @@ const webpages = computed(() => store.state.webpages?.pages);
 
 const getIcon = (page: string) => {
   if (page.includes(':8989')) {
-    return 'S';
+    return Sonarr;
   }
 
   if (page.includes(':7878')) {
-    return 'R';
+    return Radarr;
   }
 
   return '?';

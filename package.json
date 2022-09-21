@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview",
-    "deploy": "yarn build && deploy.sh"
+    "deploy": "yarn build && ./deploy.sh"
   },
   "dependencies": {
     "@coreui/icons": "^2.1.0",

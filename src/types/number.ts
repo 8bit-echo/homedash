@@ -13,6 +13,7 @@ export type NumericRange<
    ? ACC | END
    : NumericRange<[...START_ARR,1], END, ACC | START_ARR['length']>
 
+export type ZeroTo100 = NumericRange<Between<0>,100>
+export type ByteValue = NumericRange<Between<0>,254>
    
 // usage: NumericRange<Between<20>,40>
-
