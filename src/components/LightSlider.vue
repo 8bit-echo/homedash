@@ -25,8 +25,12 @@ if (store.state.hue?.ipAddress) {
 
 onMounted(async () => {
   if (hue) {
-    const light = await hue.getLight(bulbId);
-    brightness.value = light.state.bri;
+    try {
+      const light = await hue.getLight(bulbId);
+      brightness.value = light.state.bri;
+    } catch (error: any) {
+      console.warn(`Couldn't connect to hue bridge`, error.message);
+    }
   }
 });
 
@@ -54,6 +58,7 @@ watch(brightness, (newVal) => {
   overflow: hidden;
   background: rgba(0, 0, 0, 0.5);
   transform: rotate(-90deg);
+  margin-top: 130px;
 }
 
 .inner-container {

@@ -22,10 +22,11 @@
       </div>
     </div>
   </div>
+  <div v-else-if="error">{{ error }} :(</div>
 </template>
 
 <script setup lang="ts">
-import { computed, onMounted } from 'vue';
+import { computed, onMounted, ref } from 'vue';
 import USWeather from '../../utils/Weather';
 import { useStore } from '../../hooks/useStore';
 import { WeatherPeriod } from '../../types/weather';
@@ -34,15 +35,20 @@ import WeatherIcon from '../WeatherIcon.vue';
 const store = useStore();
 
 const forecast = computed<WeatherPeriod[]>(() => store.state.weather?.forecast || []);
+const error = ref<string | null>(null);
 
 onMounted(async () => {
   if (!store.state.weather?.forecast.length) {
-    const weatherService = new USWeather({ cwa: 'BOU', gridX: 54, gridY: 73 });
-    const fc = await weatherService.getForecast();
-    store.commit(
-      'weather/setForecast',
-      fc.filter((f, i) => i === 0 || f.isDaytime)
-    );
+    try {
+      const weatherService = new USWeather({ cwa: 'BOU', gridX: 54, gridY: 73 });
+      const fc = await weatherService.getForecast();
+      store.commit(
+        'weather/setForecast',
+        fc.filter((f, i) => i === 0 || f.isDaytime)
+      );
+    } catch {
+      error.value = 'Weather service unavailable';
+    }
   }
 });
 </script>

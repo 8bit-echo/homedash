@@ -28,7 +28,7 @@ export default class Hue {
   }
 
   async getLight(id: number) {
-    return this.queryHue(`/lights/${id}}`);
+    return this.queryHue(`/lights/${id}`);
   }
 
   async turnLightOff(id: number) {
@@ -59,7 +59,7 @@ export default class Hue {
         bri,
       }),
     });
-  } 
+  }
 
   async getGroups() {
     return this.queryHue('/groups');
